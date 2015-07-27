@@ -1,5 +1,5 @@
 {
-    "name": "megumi/wp-manabi-feed",
+    "name": "megumi/yahoo-manabi-feed",
     "license": "GPL2",
     "require": {
         "php": ">=5.3"
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Megumi": "src/"
+            "Megumi/yahoo-manabi-feed": "src/"
         }
     }
 }

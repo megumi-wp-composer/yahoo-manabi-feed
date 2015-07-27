@@ -1,5 +1,5 @@
 {
-    "name": "megumi/yahoo-manabi-feed",
+    "name": "horike/yahoo-manabi-feed",
     "license": "GPL2",
     "require": {
         "php": ">=5.3"
